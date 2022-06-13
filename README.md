@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T1094086)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-# How to implement a responsive CardView component in Blazor 
+# Implement a responsive CardView component in Blazor 
 
 This example demonstrates how to use DevExpress Blazor components to implement the CardView component's functionality. The main idea of the solution is to combine the following components and imitate CardView:
 - [DxGridLayout](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridLayout " DxGridLayout") to arrange data items as cards.
