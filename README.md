@@ -24,6 +24,6 @@ Each item's position (the [DxGridLayoutItem.Row](https://docs.devexpress.com/Bla
 The component recalculates these parameters after screen size changes and another break point becomes active. 
 
  ## Files to look at
- // TODO
+[Index.razor](https://github.com/DevExpress-Examples/card-view-for-blazor/blob/22.1.3%2B/CS/DxBlazorApplication5/Pages/Index.razor)
  
  
