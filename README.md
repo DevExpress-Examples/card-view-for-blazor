@@ -10,7 +10,9 @@ This example demonstrates how to use DevExpress Blazor components to implement t
 - [DxGridLayout](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxGridLayout " DxGridLayout") to arrange data items as cards.
 - [DxFormLayout](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxFormLayout "DxFormLayout") to specify card content.
 - [DxPager](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxPager "DxPager") to implement navigation between pages.
-- [DxLayoutBreakpoint](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxLayoutBreakpoint "DxLayoutBreakpoint") to make a layout responsive. 
+- [DxLayoutBreakpoint](https://docs.devexpress.com/Blazor/DevExpress.Blazor.DxLayoutBreakpoint "DxLayoutBreakpoint") to make a layout responsive.
+
+![Implement a Card View](images/card-view.png)
 
 Three break points allow you to determine the current screen size:
  ```html
